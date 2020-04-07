@@ -4,7 +4,9 @@
 /Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.pdb
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.csprojAssemblyReference.cache
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.csproj.CoreCompileInputs.cache
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfoInputs.cache
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.genruntimeconfig.cache
