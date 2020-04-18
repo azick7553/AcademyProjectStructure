@@ -10,3 +10,10 @@
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.genruntimeconfig.cache
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.csproj.CopyComplete

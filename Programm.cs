@@ -1,24 +1,45 @@
 using System;
-using AnotherNamespace;
-namespace Program
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using lesson3.DataAccess;
+
+namespace lesson3
 {
-    class Program1
+    class Programm
     {
         static void Main()
         {
-            int[] inputArr = { 2, 3, 4, 5 };
-            // ShowElementsOfArray(inputArr);
-            // ShowElementsOfArray(new int[] { 3, 5, 6, 7, });
 
-            ShowElementsOfArray("2", 3, 4, 5, 6, 7, 8);
-            Person p1 = new Person();
         }
-
-        static void ShowElementsOfArray(string x, params int[] arr)
+        static void ShowMenu(string type, int choice)
         {
-            for (int i = 0; i < arr.Length; i++)
+            Company comp = new Company();
+            switch (type)
             {
-                System.Console.WriteLine(arr[i]);
+                case "Main":
+                    {
+                        System.Console.WriteLine("1. Show companies");
+                        System.Console.WriteLine("2. Get one company by id");
+                        System.Console.WriteLine("3. Add company");
+                        System.Console.Write("Choice:");
+                        var _choice = Console.ReadLine();
+                        ShowMenu("Comapany", choice);
+                    }; break;
+                case "Company":
+                    {
+                        switch (choice)
+                        {
+                            case 1:
+                                {
+                                    var companyList = comp.SelectAll();
+                                    foreach (var company in companyList)
+                                    {
+
+                                    }
+                                }
+                                break;
+                        }
+                    }; break;
             }
         }
     }

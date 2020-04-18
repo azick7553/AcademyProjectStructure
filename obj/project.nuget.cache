@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "RNVIyeRJH7CqeeOoocSWPJ+byKDuC0Co5yQ8sc2+HjIhPmMgEcnOZOiSaE/Ju2q/GmUz4ex5a7GVqio0p5/j4g==",
+  "dgSpecHash": "R/NZ+Y0VpWYx53tLm8LhMQnv6SWVnxI7AS4sxOPRmOtWRoXWnp5ZPqgBZ+CwLhxPkX+AdFCNW/+HvbgF3PSQiQ==",
   "success": true,
   "projectFilePath": "/Users/azizjon/Projects/lesson3/lesson3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/azizjon/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/system.data.sqlclient/4.8.1/system.data.sqlclient.4.8.1.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/azizjon/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
