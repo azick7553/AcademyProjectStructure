@@ -7,5 +7,6 @@ namespace lesson3.Models
         List<T> SelectAll();
         T SelectById(int id);
         int InsertOne(T model);
+        int DeleteOne(int? id);
     }
 }

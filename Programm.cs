@@ -34,7 +34,7 @@ namespace lesson3
                                     var companyList = comp.SelectAll();
                                     foreach (var company in companyList)
                                     {
-
+                                        System.Console.WriteLine();
                                     }
                                 }
                                 break;
